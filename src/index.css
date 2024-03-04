@@ -1,0 +1,39 @@
+
+*{
+  max-width: 780px;
+  margin: 0 auto;
+  font-family: "Aria sans-serif";
+
+
+}
+.bg-color{
+  margin: 10px;
+  padding: 5px;
+  width: 100%;
+  height: 40px;
+
+}
+h1{
+  letter-spacing: .2px;
+  font-size: 2em;
+  text-align: center;
+  margin-top: 20px;
+}
+button{
+
+
+  padding: 10px;
+  margin: 5px;
+  border-radius: .5rem;
+  cursor: pointer;
+  font-size: 2rem;
+
+}
+.bg-text{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  
+  
+}
